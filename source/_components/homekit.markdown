@@ -216,7 +216,7 @@ Filters are applied as follows:
 
 The following components are currently supported:
 
-| Component | Type Name | Description |
+| Component / Domain | Type Name | Description |
 | --------- | --------- | ----------- |
 | alarm_control_panel | SecuritySystem | All security systems. |
 | binary_sensor | Sensor | Support for `co2`, `door`, `garage_door`, `gas`, `moisture`, `motion`, `occupancy`, `opening`, `smoke` and `window` device classes. Defaults to the `occupancy` device class for everything else. |
